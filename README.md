@@ -6,7 +6,6 @@ A deployment of a Netflix clone on the cloud (AWS) using Jenkins. This project e
 ![Screenshot (21)](https://github.com/selvanithi/Netflix-clone/assets/82197771/6574182f-0281-4eb4-a015-f8a7feee29da)
 ![Screenshot (22)](https://github.com/selvanithi/Netflix-clone/assets/82197771/dd4e6846-8c00-46cf-b19d-c3698bce6109)
 ![Screenshot (23)](https://github.com/selvanithi/Netflix-clone/assets/82197771/63133358-b4dc-448d-a49b-2215d18b666f)
-![Screenshot (24)](https://github.com/selvanithi/Netflix-clone/assets/82197771/77eb6b12-0af9-45e4-b79d-03a0fc5b6a98)
 ![Screenshot (25)](https://github.com/selvanithi/Netflix-clone/assets/82197771/264e7a80-5be7-4f74-ad25-0b13635732db)
 ![Screenshot (26)](https://github.com/selvanithi/Netflix-clone/assets/82197771/b43e0348-0aef-4fb1-8521-8b0937ef60dc)
 
